@@ -1,0 +1,14 @@
+Small Multiples
+Horizon Graphs
+Data Density
+SPLOM (Scatter Plot Matrix)
+Choropleth Maps
+Graduated Symbol Maps
+Cartograms
+Node-Link Diagrams
+Dendogram
+Adjacency Diagrams
+Enclosure Diagrams
+Squarified Treemaps
+Arc-Diagrams
+Les Misérables Character Co-occurrences
